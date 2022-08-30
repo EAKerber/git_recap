@@ -1,1 +1,1 @@
-# Revisando meu conhecimento de git após um tempo sem utilisá-lo.
+# Revisando meu conhecimento de git após um tempo sem utilizá-lo.
